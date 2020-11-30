@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EvenOrOddTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-11-30T19:40:44" hostname="DESKTOP-40N62ON" time="0.002">
+  <properties/>
+  <testcase name="shouldReturnOdd" classname="EvenOrOddTest" time="0.001"/>
+  <testcase name="shouldReturnEven" classname="EvenOrOddTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
